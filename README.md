@@ -15,7 +15,7 @@ A sleek, user-friendly calculator built with **HTML**, **CSS**, and **JavaScript
 
 ## Demo 🎬
 
-Try it out live [soon]
+Try it out live: https://xyresiiic.github.io/Basic_calculator/
 
 ---
 
